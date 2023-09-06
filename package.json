@@ -1,0 +1,23 @@
+{
+  "name": "rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtisBaseCode/RxJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtisBaseCode/RxJs/issues"
+  },
+  "homepage": "https://github.com/ArtisBaseCode/RxJs#readme",
+  "dependencies": {
+    "rxjs": "^7.8.1"
+  }
+}
